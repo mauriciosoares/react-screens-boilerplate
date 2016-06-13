@@ -4,7 +4,13 @@ This repo contains an alternative for React Applications
 
 The idea here is not to provide a bullet proof architecture for your next React application, instead it should inspire you to user other alternatives instead of the default "Components" and "Containers" structures.
 
-## Folders
+## Getting Started
+
+To start your development you can run `npm start` and access `localhost:3000`
+
+To run tests, simply run `npm test`
+
+### Folders
 
 #### Actions
 
