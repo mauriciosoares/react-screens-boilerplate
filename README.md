@@ -10,7 +10,9 @@ To start your development you can run `npm start` and access `localhost:3000`
 
 To run tests, simply run `npm test`
 
-### Folders
+### Folder "rules"
+
+Just clarify, there are no rules here... You can modify this structure the way you want. I follow some conventions when using it, and these conventions might help you as well.
 
 #### Actions
 
